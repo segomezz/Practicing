@@ -1,1 +1,2 @@
-Github no deja subir carpetas vacias
+Github no dejaba darle commit
+
